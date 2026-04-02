@@ -40,7 +40,7 @@ An interactive dashboard was created to understand sales performance, customer b
 ---
 
 ## 🖼️ Dashboard Preview
-(Add your dashboard image here)
+![Dashboard](Screenshot (15).png)
 
 ---
 
